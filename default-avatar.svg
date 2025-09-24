@@ -1,0 +1,10 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="75" cy="75" r="75" fill="#D9D9D9"/>
+  
+  <!-- Head circle -->
+  <circle cx="75" cy="50" r="25" fill="white"/>
+  
+  <!-- Shoulders/torso shape -->
+  <path d="M45 60 Q45 45 75 45 Q105 45 105 60 L105 100 Q105 110 95 110 L55 110 Q45 110 45 100 Z" fill="white"/>
+</svg>

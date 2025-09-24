@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daniyarzhinsiuly-skillswap/static/css/main.9d804595.css",
+    "main.js": "/daniyarzhinsiuly-skillswap/static/js/main.805eccd5.js",
+    "index.html": "/daniyarzhinsiuly-skillswap/index.html",
+    "main.9d804595.css.map": "/daniyarzhinsiuly-skillswap/static/css/main.9d804595.css.map",
+    "main.805eccd5.js.map": "/daniyarzhinsiuly-skillswap/static/js/main.805eccd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d804595.css",
+    "static/js/main.805eccd5.js"
+  ]
+}
