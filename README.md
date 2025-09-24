@@ -2,7 +2,6 @@
 
 SkillSwap is a professional social networking platform that connects students and professionals, enabling them to exchange knowledge, skills, and collaborate on projects. Built with modern web technologies, it provides a LinkedIn-inspired experience focused on skill sharing and professional development.
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -76,10 +75,10 @@ src/
 └── index.js             # Application entry point
 ```
 
-## ✨ Features
+## Features
 
 ### Core Functionality
-- **User Profiles:** LinkedIn-style professional profiles with experience, education, and skills
+- **User Profiles:** LinkedIn-style professional profiles with experience, education, and skills and lil-bit of Reddit style posts
 - **Social Feed:** Post creation, liking, commenting, and sharing
 - **Direct Messaging:** Real-time conversations between users
 - **Search & Filter:** Find posts, users, and content by keywords
@@ -93,7 +92,7 @@ src/
 - **Content Discovery:** Trending topics and popular posts
 - **Theme Support:** Light and dark mode options
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 SkillSwap follows a professional, LinkedIn-inspired design system with:
 - Clean, modern interface
@@ -102,24 +101,18 @@ SkillSwap follows a professional, LinkedIn-inspired design system with:
 - Accessibility considerations
 - Mobile-first responsive design
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- Built for hackathon demonstration
+- Built for FOBISIA hackathon demonstration
 - Inspired by professional networking platforms
 - Designed for student and professional collaboration
 
 ---
 
-**Ready to connect and share knowledge? Start your SkillSwap journey today!** 🚀
+
