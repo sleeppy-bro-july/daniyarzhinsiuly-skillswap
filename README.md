@@ -41,7 +41,7 @@ SkillSwap is a professional social networking platform that connects students an
 - **Icons & UI:** Custom CSS components
 - **Development:** ESLint, Prettier
 
-## 🎯 Hackathon Theme: Connected Worlds
+## Hackathon Theme: Connected Worlds
 
 **"Connected Worlds: SkillSwap connects students by enabling them to exchange knowledge"**
 
