@@ -9,11 +9,7 @@ SkillSwap is a professional social networking platform that connects students an
 
 ### Local Development Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/skillswap.git
-   cd skillswap
-   ```
+1.Lets goooooo
 
 2. **Install dependencies:**
    ```bash
